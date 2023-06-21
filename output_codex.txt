@@ -1,0 +1,3120 @@
+<!DOCTYPE html>
+<html lang="fr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head>
+  <!--[if IE]><![endif]-->
+<meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.ffta.fr/sites/all/themes/ffta2016/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.ffta.fr/" />
+<link rel="shortlink" href="https://www.ffta.fr/" />
+<meta property="og:site_name" content="Fédération Française de Tir à l&#039;arc" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.ffta.fr/node/10" />
+<meta property="og:title" content="Fédération Française de Tir à l&#039;Arc" />
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+
+  <title>Fédération Française de Tir à l'arc</title>
+
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic,300,300italic' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700" rel="stylesheet">
+
+  <link rel="apple-touch-icon" href="/sites/all/themes/ffta2016/icons/ios/AppIcon.appiconset/Icon-60@2x.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/ffta2016/icons/ios/AppIcon.appiconset/Icon-60@3x.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="/sites/all/themes/ffta2016/icons/ios/AppIcon.appiconset/Icon-76.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/ffta2016/icons/ios/AppIcon.appiconset/Icon-76@2x.png" />
+  <link rel="apple-touch-icon" sizes="58x58" href="/sites/all/themes/ffta2016/icons/ios/AppIcon.appiconset/Icon-Small@2x.png" />
+  <link rel="icon" sizes="192x192" href="/sites/all/themes/ffta2016/icons/android/playstore-icon.png">
+
+  <link type="text/css" rel="stylesheet" href="https://www.ffta.fr/sites/ffta/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ffta.fr/sites/ffta/files/css/css_4YXUnHBWzz7PPOYD46j158oe5efJyk32G1_jrmCBQMM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ffta.fr/sites/ffta/files/css/css_pWIMzMEe4t5S1pUumLJyCh_7gLesob1E5wZwQxi8fZc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ffta.fr/sites/ffta/files/css/css_hfWfKTIPQT0evQY34Av89iYvLJWaDk6LEelqsGo08Fo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.ffta.fr/sites/ffta/files/css/css_d-CSFTu0DTixZRasEE3wHAwtBzqzM-erLW_lPBzbgLA.css" media="print" />
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ffta.fr/misc/jquery-extend-3.4.0.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.ffta.fr/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://www.ffta.fr/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://www.ffta.fr/misc/drupal.js?rqiyum"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"ffta2016","theme_token":"t_TmWyAuroPlpY2CGXOWBMeb5Tt_XTQGln-Rvcxx4Kk","js":{"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/contrib\/geofield_gmap\/geofield_gmap.js":1,"public:\/\/languages\/fr_oCl2opflCLe-fnDVMwoDuanwyWTTwF4FDIC-BDZjRd0.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/themes\/ffta2016\/dist\/scripts\/init.js":1,"sites\/all\/themes\/ffta2016\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/ffta2016\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/ffta2016\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/ffta2016\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/ffta2016\/external\/slick\/slick.min.js":1,"sites\/all\/themes\/ffta2016\/external\/html5shiv.min.js":1,"sites\/all\/themes\/ffta2016\/external\/nanoscroller\/nanoscroller.min.js":1,"sites\/all\/themes\/ffta2016\/dist\/scripts\/main.js":1,"sites\/all\/themes\/ffta2016\/js\/pub.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/geofield_gmap\/geofield_gmap.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/libraries\/fontawesome\/css\/font-awesome.css":1,"public:\/\/ctools\/css\/6f45cab26c68d11bbe4be59a458c70e2.css":1,"sites\/all\/themes\/ffta2016\/external\/slick\/slick.css":1,"sites\/all\/themes\/ffta2016\/external\/slick\/slick-theme.css":1,"sites\/all\/themes\/ffta2016\/external\/colorbox\/colorbox.css":1,"sites\/all\/themes\/ffta2016\/external\/nanoscroller\/nanoscroller.css":1,"sites\/all\/themes\/ffta2016\/dist\/stylesheets\/main.css":1,"sites\/all\/themes\/ffta2016\/dist\/stylesheets\/print.css":1}},"better_exposed_filters":{"views":{"partenaires":{"displays":{"partenaires_institutionnels":{"filters":[]},"partenaires_premium":{"filters":[]}}},"pub":{"displays":{"block_1":{"filters":[]},"pub_hp_actu":{"filters":[]}}},"actualites":{"displays":{"actualites_une":{"filters":[]},"actus_home":{"filters":[]},"actualites_breves":{"filters":[]}}},"evenements":{"displays":{"next_events":{"filters":[]}}},"medias":{"displays":{"home":{"filters":[]}}}}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_scrolling_confirmation":0,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n      En poursuivant la navigation sur ce site, vous acceptez l\u0027utilisation de cookies pour vous proposer des offres et des services adapt\u00e9s \u00e0 vos centres d\u0027int\u00e9r\u00eat. \u003Ca href=\u0022\/node\/953\u0022\u003EPlus d\u0027infos\u003C\/a\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENon\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOk\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022\u003E\n      We use cookies on this site to enhance your user experienceBy tapping the Accept button, you agree to us doing so.              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003ENon\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003EOk\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":768,"popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      Merci d\u0027avoir accept\u00e9 nos cookies.    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EMasquer\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":55,"popup_width":"100%","popup_delay":1000,"popup_link":"\/mentions-legales","popup_link_new_window":0,"popup_position":null,"fixed_top_position":true,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"ffta.fr","domain_all_sites":null,"popup_eu_only_js":0,"cookie_lifetime":100,"cookie_session":false,"disagree_do_not_show_popup":0,"method":"default","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      We use cookies on this site to enhance your user experience\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_name":"","cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","automatic_cookies_removal":true,"close_button_action":"close_banner"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/?lxml":true}});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/modules/contrib/eu_cookie_compliance/js/jquery.cookie-1.4.1.min.js?v=1.4.1"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/modules/contrib/geofield_gmap/geofield_gmap.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/ffta/files/languages/fr_oCl2opflCLe-fnDVMwoDuanwyWTTwF4FDIC-BDZjRd0.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/modules/contrib/google_analytics/googleanalytics.js?rqiyum"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-39537932-2", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/dist/scripts/init.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/bootstrap/js/collapse.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/bootstrap/js/carousel.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/bootstrap/js/modal.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/bootstrap/js/transition.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/external/slick/slick.min.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/external/html5shiv.min.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/external/nanoscroller/nanoscroller.min.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/dist/scripts/main.js?rqiyum"></script>
+<script type="text/javascript" src="https://www.ffta.fr/sites/all/themes/ffta2016/js/pub.js?rqiyum"></script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-10 node-type-accueil" >
+
+  <div id="fb-root"></div>
+  <script type="text/javascript">
+      (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v3.0&appId=971438043022637";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  </script>
+
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Aller au contenu principal</a>
+  </div>
+    
+  <div id="page-wrapper">
+  <div id="page">
+
+    <header id="header">
+        <div class="top-header">
+          <div class="container">
+              <div class="region region-top-header">
+    <div id="block-menu-block-2" class="block block-menu-block external-links-menu">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-2 menu-name-menu-liens-externes parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-654"><a href="/ws/epreuves" target="_blank">COMPÉTITION ET RÉSULTATS</a></li>
+<li class="leaf menu-mlid-653"><a href="/vie-sportive/resultats/classements-nationaux" target="_blank">CLASSEMENTS</a></li>
+<li class="leaf menu-mlid-655"><a href="https://ffta.ugal.com/login/?r=http%3A%2F%2Fboutique%2Effta%2Efr" target="_blank">BOUTIQUE CLUBS</a></li>
+<li class="leaf menu-mlid-1815"><a href="https://boutiqueofficielle-ffta.fr/" target="_blank">BOUTIQUE OFFICIELLE</a></li>
+<li class="leaf menu-mlid-656"><a href="https://ffta-goal.multimediabs.com/intranet" target="_blank">ESPACE DIRIGEANTS</a></li>
+<li class="last leaf menu-mlid-657"><a href="https://ffta-goal.multimediabs.com/espaceLicencie" target="_blank">ESPACE LICENCIÉS</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-3" class="block block-menu-block social-menu">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-3 menu-name-menu-social-et-clubs parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2632 rss-icon"><a href="/rss" target="_blank">r</a></li>
+<li class="leaf menu-mlid-3800 social-icon instagram"><a href="https://www.instagram.com/fftiralarc/" target="_blank">insta</a></li>
+<li class="leaf menu-mlid-659 social-icon facebook"><a href="https://www.facebook.com/fftiralarc/" target="_blank">fb</a></li>
+<li class="leaf menu-mlid-660 social-icon twitter"><a href="https://twitter.com/FFTiralArc" target="_blank">tw</a></li>
+<li class="leaf menu-mlid-665 social-icon youtube"><a href="https://www.youtube.com/user/fftatv" target="_blank">y</a></li>
+<li class="last leaf menu-mlid-666 clubs-item"><a href="https://ffta.maps.arcgis.com/apps/webappviewer/index.html?id=6aad81b836e840d8913dbe46e379aebd" target="_blank">Chercher un club</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+          </div>
+        </div>
+        <div class="header">
+          <div class="container">
+
+            <button type="button" class="navbar-toggle collapsed responsive-menu-btn" data-toggle="collapse" data-target=".menu-block-1" aria-expanded="false">
+              <span class="sr-only">Open main menu</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+
+                          <a href="/" title="Accueil" rel="home" id="logo">
+                <img src="https://www.ffta.fr/sites/all/themes/ffta2016/logo.svg" alt="Accueil" width="350" />
+              </a>
+            
+                          <div id="name-and-slogan" class="visually-hidden">
+                                                      <div id="site-name"><strong>
+                      <a href="/" title="Accueil" rel="home"><span>Fédération Française de Tir à l'arc</span></a>
+                    </strong></div>
+                                  
+                              </div>
+                        <div class="header-right-container">
+                <div class="region region-header">
+    <div id="block-menu-block-4" class="block block-menu-block espaces-menu">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-4 menu-name-menu-univers parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-608 link-espace-item cibles"><a href="/tir-sur-cibles">Tir sur cibles</a></li>
+<li class="leaf menu-mlid-607 link-espace-item parcours"><a href="/tir-de-parcours">Tir de parcours</a></li>
+<li class="leaf menu-mlid-609 link-espace-item traditionnel"><a href="/tir-beursault">Tir beursault</a></li>
+<li class="leaf menu-mlid-4662 link-espace-item para"><a href="/para">Para-tir à l&#039;arc</a></li>
+<li class="last leaf menu-mlid-4663 link-espace-item runarchery"><a href="/run-archery-0">Run archery</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-block-1" class="block block-block search-fake-input">
+
+    
+  <div class="content">
+    <p><span>Rechercher sur le site</span></p>
+  </div>
+</div>
+  </div>
+              <div class="search-opened-container">
+                  <div class="region region-header-search">
+    <div id="block-menu-block-5" class="block block-menu-block menu-categories">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-5 menu-name-menu-menu-categories parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-669"><a href="/medias">Médias</a></li>
+<li class="leaf menu-mlid-670"><a href="/documents">Documents</a></li>
+<li class="leaf menu-mlid-671"><a href="/actualites">Actualités</a></li>
+<li class="last leaf menu-mlid-2588"><a href="/evenements">Évènements</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-search-form" class="block block-search">
+
+    
+  <div class="content">
+    <form action="/?lxml" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Formulaire de recherche</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Rechercher </label>
+ <input title="Indiquer les termes à rechercher" placeholder="" maxlength="25" autocomplete="off" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-8D6-Nt_tbmpL0bIwfWZkOWbEXGx3ail1btF0mBqOJUY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+</div>
+  </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="bottom-header">
+            <div class="region region-bottom-header">
+    
+
+<div id="block-menu-block-1" class="container block block-menu-block mega-menu-medium">
+
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1 collapse navbar-collapse">
+  
+<ul class="nav navbar-nav">
+    
+<li  class="first expanded menu-mlid-548 has-submenu">
+    <a
+        href="/la-federation"
+            >
+        La Fédération            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-556 has-submenu">
+    <a
+        href="/la-federation/linstitution"
+            >
+        L'institution            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1285">
+    <a
+        href="/la-federation/linstitution/notre-mission"
+            >
+        Notre mission            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1286">
+    <a
+        href="/la-federation/linstitution/notre-fonctionnement"
+            >
+        Notre fonctionnement            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1287">
+    <a
+        href="/la-federation/linstitution/notre-histoire"
+            >
+        Notre histoire            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1289">
+    <a
+        href="/la-federation/linstitution/le-siege-federal"
+            >
+        Le siège fédéral            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1297">
+    <a
+        href="/la-federation/linstitution/statuts-et-reglements"
+            >
+        Statuts et règlements            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1291">
+    <a
+        href="/la-federation/linstitution/federations-multisports-conventionnees"
+            >
+        Fédérations multisports conventionnées            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-559 has-submenu">
+    <a
+        href="/la-federation/organisation"
+            >
+        Organisation            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-2624">
+    <a
+        href="/la-federation/organisation/presidence"
+            >
+        Présidence            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1293">
+    <a
+        href="/la-federation/organisation/comite-directeur"
+            >
+        Comité Directeur            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2656">
+    <a
+        href="/la-federation/organisation/composition-des-commissions-federales"
+            >
+        Les commissions fédérales            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1295">
+    <a
+        href="/la-federation/organisation/direction-technique-nationale"
+            >
+        Direction Technique Nationale            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1296">
+    <a
+        href="/la-federation/organisation/comites-regionaux"
+            >
+        Comités régionaux            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2623">
+    <a
+        href="https://www.calameo.com/read/006196491f78b643af6e4"
+            >
+        Le projet fédéral 2018-2024            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2650">
+    <a
+        href="/la-federation/organisation/proces-verbaux-assemblees-generales-ffta"
+            >
+        Procès Verbaux Assemblées Générales FFTA            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-3381">
+    <a
+        href="/la-federation/organisation/assemblee-generale-2023"
+            >
+        AG 2023            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-555 has-submenu">
+    <a
+        href="/la-federation/etre-jeune-dirigeant-la-ffta"
+            >
+        International            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-4664">
+    <a
+        href="/la-federation/international/club-des-supporters-france-tir-larc"
+            >
+        Club des Supporters            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-3797">
+    <a
+        href="/la-federation/etre-jeune-dirigeant-la-ffta/solidarite-afrique-francophone"
+            >
+        Solidarité Afrique francophone            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-554 has-submenu">
+    <a
+        href="/la-federation/communication-et-medias"
+            >
+        Communication et Médias            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-2399">
+    <a
+        href="/la-federation/communication-et-medias/la-ffta-en-chiffres"
+            >
+        La FFTA en chiffres            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1304">
+    <a
+        href="/la-federation/communication-et-medias/dossier-de-presse-federal"
+            >
+        Dossier de presse fédéral            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2589">
+    <a
+        href="/la-federation/communication-et-medias/logo-et-charte-graphique"
+            >
+        Logo et charte graphique            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-4652">
+    <a
+        href="/la-federation/communication-et-medias/magazine-tir-larc"
+            >
+        Magazine Tir à l'Arc            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-557 has-submenu">
+    <a
+        href="/la-federation/nos-partenaires"
+            >
+        Nos partenaires            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-4022">
+    <a
+        href="/la-federation/nos-partenaires/devenez-partenaire-de-la-ffta"
+            >
+        Devenez partenaire de la FFTA            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-4666">
+    <a
+        href="/la-federation/nos-partenaires/les-partenaires-de-la-ffta"
+            >
+        Les partenaires de la FFTA            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-558 has-submenu">
+    <a
+        href="/la-federation/nous-contacter"
+            >
+        Nous contacter            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first last leaf menu-mlid-697">
+    <a
+        href="/la-federation/nous-contacter/formulaire-de-contact"
+            >
+        Formulaire de contact            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-548">
+                <div class="block-link">
+            <a href="http://www.paris2024.org/fr"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/push_fed.jpg?itok=J7vCgR6C);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-549 has-submenu">
+    <a
+        href="/nos-clubs"
+            >
+        Nos clubs            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-1313 has-submenu">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation"
+            >
+        Clubs affiliés et Affiliation            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1312">
+    <a
+        href="https://ffta.maps.arcgis.com/apps/webappviewer/index.html?id=6aad81b836e840d8913dbe46e379aebd"
+         target="_blank"    >
+        Chercher un club en France            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1325">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation/pourquoi-et-comment-saffilier-la-ffta"
+            >
+        Pourquoi et comment s’affilier à la FFTA ?            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1327">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation/les-contacts-prealables"
+            >
+        Les contacts préalables            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1328">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation/cadre-juridique-loi-1901"
+            >
+        Cadre juridique Loi 1901            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1330">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation/lagrement-ministeriel"
+            >
+        L’agrément ministériel            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1329">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation/assemblee-generale-constitutive"
+            >
+        Assemblée Générale constitutive            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-3807">
+    <a
+        href="/nos-clubs/clubs-affilies-et-affiliation/subventions-agence-nationale-du-sport-ex-cnds"
+            >
+        Subvention PSF - ANS            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-563 has-submenu">
+    <a
+        href="/nos-clubs/la-licence-federale"
+            >
+        La licence fédérale            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1315">
+    <a
+        href="/nos-clubs/la-licence-federale/les-differents-types-de-licences"
+            >
+        Les différents types de licences            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1346">
+    <a
+        href="/nos-clubs/la-licence-federale/les-categories-dages"
+            >
+        Les catégories d’âges            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1317">
+    <a
+        href="/nos-clubs/la-licence-federale/le-certificat-medical"
+            >
+        Le certificat médical            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1319">
+    <a
+        href="/nos-clubs/la-licence-federale/les-avantages-licencies"
+            >
+        Les avantages licenciés            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2402">
+    <a
+        href="/nos-clubs/la-licence-federale/le-passsport-de-larcher"
+            >
+        Le Pass'Sport de l'Archer            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-560 has-submenu">
+    <a
+        href="/nos-clubs/assurances"
+            >
+        Assurances licenciés et clubs            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1320">
+    <a
+        href="/nos-clubs/assurances-licencies-et-clubs/lassurance-des-licencies"
+            >
+        L'assurance des licenciés            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1324">
+    <a
+        href="/nos-clubs/assurances-licencies-et-clubs/lassurance-des-clubs-et-dirigeants"
+            >
+        L'assurance des clubs et dirigeants            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2407">
+    <a
+        href="/nos-clubs/assurances-licencies-et-clubs/lassurance-des-educateurs-sportifs-professionnels"
+            >
+        L'assurance des éducateurs sportifs professionnels            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2408">
+    <a
+        href="/nos-clubs/assurances-licencies-et-clubs/comment-declarer-un-accident"
+            >
+        Comment déclarer un accident ?            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-564 has-submenu">
+    <a
+        href="/nos-clubs/labels-et-actions-federales"
+            >
+        Labels et actions fédérales            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1336">
+    <a
+        href="/nos-clubs/labels-et-actions-federales/label-club-ffta"
+            >
+        Label club FFTA            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-3805">
+    <a
+        href="/nos-clubs/labels-et-actions-federales/le-tir-larc-lecole"
+            >
+        Le tir à l'arc à l'école            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1338">
+    <a
+        href="/nos-clubs/labels-et-actions-federales/citoyens-du-sport"
+            >
+        Citoyens du sport            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2590">
+    <a
+        href="/nos-clubs/labels-et-actions-federales/handiguide-des-sports"
+            >
+        Handiguide des sports            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-562 has-submenu">
+    <a
+        href="/nos-clubs/equipements"
+            >
+        Equipements            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-4435">
+    <a
+        href="/nos-clubs/equipements/50-salles-pour-tirer-larc"
+            >
+        50 salles pour tirer à l'arc            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1334">
+    <a
+        href="/nos-clubs/equipements-et-securite/la-securite"
+            >
+        La sécurité            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1333">
+    <a
+        href="/nos-clubs/equipements/le-guide-des-equipements"
+            >
+        Le Guide des équipements            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last leaf menu-mlid-4653">
+    <a
+        href="/nos-clubs/kits-de-rentree-saison-2022-2023"
+            >
+        Vos kits de rentrée clubs            </a>
+
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-549">
+                <div class="block-link">
+            <a href="http://www.ffta.fr/nos-clubs"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/clubs_menu_0.png?itok=4N_eqWPI);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-550 has-submenu">
+    <a
+        href="/pratiquer"
+            >
+        Pratiquer            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-565 has-submenu">
+    <a
+        href="/pratiquer/decouvrir-le-tir-larc"
+            >
+        Découvrir et pratiquer            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1342">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/tir-larc-au-feminin"
+            >
+        Tir à l’Arc au Féminin            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2018">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/de-10-ans"
+            >
+        - de 10 ans            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-4655">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/partage-tes-fleches"
+            >
+        Partage tes flèches            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2665">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/trophee-des-mixtes"
+            >
+        Trophée des mixtes            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-3799">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/sport-sante"
+            >
+        Sport Santé            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1343">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/6-bonnes-raisons-de-faire-du-tir-larc"
+            >
+        6 raisons de faire du tir à l'arc            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1344">
+    <a
+        href="/pratiquer/decouvrir-et-pratiquer/animations-tir-larc"
+            >
+        Animations tir à l'arc            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-566 has-submenu">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques"
+            >
+        Disciplines officielles et nouvelles pratiques            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1349">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-tir-en-salle"
+            >
+        Le tir à 18m            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-3796">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-tir-larc-exterieur"
+            >
+        Le tir à l'arc extérieur            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-4670">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-para-tir-larc"
+            >
+        Le para-tir à l'arc            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1350">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-tir-en-campagne"
+            >
+        Le tir en campagne            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2015">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-tir-3d"
+            >
+        Le tir 3D            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1351">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-parcours-nature"
+            >
+        Le tir nature            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2014">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-tir-beursault"
+            >
+        Le tir beursault            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2651">
+    <a
+        href="/pratiquer/disciplines-officielles-et-nouvelles-pratiques/le-run-archery"
+            >
+        Le run archery            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-567 has-submenu">
+    <a
+        href="/pratiquer/les-distinctions"
+            >
+        Les distinctions            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1345">
+    <a
+        href="/pratiquer/les-distinctions/le-passarc"
+            >
+        Le Pass'Arc            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1348">
+    <a
+        href="/pratiquer/les-distinctions/les-plumes-de-progression"
+            >
+        Les plumes de progression            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2218">
+    <a
+        href="/pratiquer/les-distinctions/les-fleches-de-progression"
+            >
+        Les flèches de progression            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2219">
+    <a
+        href="/pratiquer/les-distinctions/les-distinctions-nationales"
+            >
+        Les distinctions nationales            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2653">
+    <a
+        href="/pratiquer/les-distinctions/les-distinctions-internationales"
+            >
+        Les distinctions internationales            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-2200 has-submenu">
+    <a
+        href="/pratiquer/progressez"
+            >
+        Progressez            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1347">
+    <a
+        href="/pratiquer/progressez/la-demarche-federale-denseignement"
+            >
+        La démarche fédérale d’enseignement            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2201">
+    <a
+        href="/pratiquer/progressez/larc-poulies-decouverte-maitrise-performance"
+            >
+        L'arc à poulies : découverte, maîtrise, performance            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2644">
+    <a
+        href="/pratiquer/progressez/stages-de-perfectionnement"
+            >
+        Stages de perfectionnement            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-1810 has-submenu">
+    <a
+        href="/pratiquer/sport-de-traditions"
+            >
+        Sport de traditions            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1814">
+    <a
+        href="/pratiquer/sport-de-traditions/les-bouquets-provinciaux"
+            >
+        Les Bouquets Provinciaux            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2017">
+    <a
+        href="/pratiquer/sport-de-traditions/le-roy-de-france"
+            >
+        Le Roy de France            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-3382">
+    <a
+        href="/pratiquer/sport-de-traditions/projet-de-reconnaissance-unesco"
+            >
+        Projet de reconnaissance UNESCO            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-1811 has-submenu">
+    <a
+        href="/pratiquer/le-materiel"
+            >
+        Le matériel            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1812">
+    <a
+        href="/pratiquer/le-materiel/les-differents-types-darcs"
+            >
+        Les différents types d'arcs            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1813">
+    <a
+        href="/pratiquer/le-materiel/les-fleches"
+            >
+        Les flèches            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2203">
+    <a
+        href="/pratiquer/le-materiel/les-accessoires-de-base"
+            >
+        Les accessoires de base            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-550">
+                <div class="block-link">
+            <a href="http://www.ffta.fr/rejoignez-lun-de-nos-1650-clubs"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/rj_op_102017.jpg?itok=fBn1oibg);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-551 has-submenu">
+    <a
+        href="/vie-sportive"
+            >
+        Vie sportive            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-568 has-submenu">
+    <a
+        href="/vie-sportive/calendriers"
+            >
+        Calendriers            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1357">
+    <a
+        href="/evenements"
+            >
+        Calendrier des évènements nationaux et internationaux            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1355">
+    <a
+        href="/ws/epreuves"
+            >
+        Recherchez une compétition en France            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2649">
+    <a
+        href="/vie-sportive/calendriers/calendriers-saisons-sportives"
+            >
+        Calendriers saisons sportives            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-569 has-submenu">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats"
+            >
+        Les compétitions et les championnats            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1335">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats/organiser-une-competition"
+            >
+        Organiser une compétition            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1352">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats/championnats-nationaux"
+            >
+        Championnats nationaux            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1353">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats/procedures-dinscription-aux-championnats-de-france"
+            >
+        Inscription aux championnats de France & Elite            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2657">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats/quotas-et-selection-championnats-de-france-elites"
+            >
+        Quotas aux championnats & Élites            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2411">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats/championnats-internationaux"
+            >
+        Championnats internationaux            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-3383">
+    <a
+        href="/vie-sportive/les-competitions-et-les-championnats/filiere-par-equipes"
+            >
+        Filière par équipes            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-570 has-submenu">
+    <a
+        href="/vie-sportive/larbitrage"
+            >
+        L'arbitrage            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1361">
+    <a
+        href="/vie-sportive/larbitrage/reglements-sportifs-et-arbitrage"
+            >
+        Règlements sportifs et Arbitrage            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2019">
+    <a
+        href="/vie-sportive/larbitrage/bonnes-pratiques-et-bonnes-conduites"
+            >
+        Bonnes pratiques et bonnes conduites            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2220">
+    <a
+        href="/vie-sportive/larbitrage/le-respect-des-regles"
+            >
+        Le respect des règles            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2021">
+    <a
+        href="/vie-sportive/larbitrage/la-formation-des-arbitres-et-les-examens"
+            >
+        Formation Arbitres & Examens            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-3384">
+    <a
+        href="/vie-sportive/larbitrage/tenues-darbitre-federal"
+            >
+        Tenues d'arbitre fédéral            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-571 has-submenu">
+    <a
+        href="/vie-sportive/resultats"
+            >
+        Résultats            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1358">
+    <a
+        href="/vie-sportive/resultats/classements-nationaux"
+            >
+        Classements nationaux            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1356">
+    <a
+        href="/vie-sportive/resultats/records-de-france"
+            >
+        Records de France            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1359">
+    <a
+        href="/vie-sportive/resultats/meilleures-performances-francaises"
+            >
+        Meilleures performances françaises            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2398">
+    <a
+        href="/vie-sportive/resultats/gerez-les-resultats-avec-resultarc"
+            >
+        Gérez les résultats avec Result'Arc            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-572 has-submenu">
+    <a
+        href="/vie-sportive/sante-et-tir-larc-en-competition"
+            >
+        Santé et tir à l'arc en compétition            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1363">
+    <a
+        href="/vie-sportive/sante-et-tir-larc-en-competition/lutte-contre-le-dopage"
+            >
+        Lutte contre le dopage            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1365">
+    <a
+        href="/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales"
+            >
+        Les recommandations médicales            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1364">
+    <a
+        href="/vie-sportive/sante-et-tir-larc-en-competition/autorisation-dusage-des-fins-therapeutiques-aut"
+            >
+        Autorisation d’usage à des fins thérapeutiques (AUT)            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-2659 has-submenu">
+    <a
+        href="/vie-sportive/archives"
+            >
+        Archives résultats            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-2661">
+    <a
+        href="/vie-sportive/archives-resultats/tir-18m"
+            >
+        Tir en salle            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2660">
+    <a
+        href="/vie-sportive/archives-resultats/tir-larc-exterieur"
+            >
+        Tir à l'Arc Extérieur            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2664">
+    <a
+        href="/vie-sportive/archives-resultats/tir-parcours"
+            >
+        Tir parcours            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-4665">
+    <a
+        href="/vie-sportive/archives-resultats/para-tir-larc"
+            >
+        Para-tir à l'arc            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2662">
+    <a
+        href="/vie-sportive/archives-resultats/filiere-fita-par-equipes"
+            >
+        Filière par équipes            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2663">
+    <a
+        href="/vie-sportive/archives-resultats/autres-disciplines"
+            >
+        Autres disciplines            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-551">
+                <div class="block-link">
+            <a href="http://www.ffta.fr/vie-sportive"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/vie_sportive.jpg?itok=IfrIaA4R);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-552 has-submenu">
+    <a
+        href="/haut-niveau"
+            >
+        Haut Niveau            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-574 has-submenu">
+    <a
+        href="/haut-niveau/se-preparer-pour-gagner"
+            >
+        Se préparer pour gagner            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1371">
+    <a
+        href="/haut-niveau/se-preparer-pour-gagner/le-projet-de-performance-federal-ppf"
+            >
+        Le Projet de Performance Fédéral            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1372">
+    <a
+        href="/haut-niveau/se-preparer-pour-gagner/effectifs-poles-france-elite-releve-et-espoirs"
+            >
+        Effectifs Pôles France Elite et Jeunes            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-576 has-submenu">
+    <a
+        href="/haut-niveau/pratiquer-haut-niveau"
+            >
+        Pratiquer à haut niveau            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-2400">
+    <a
+        href="/haut-niveau/pratiquer-haut-niveau/le-tir-larc-haut-niveau"
+            >
+        Le tir à l'arc à haut niveau            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1369">
+    <a
+        href="/haut-niveau/pratiquer-haut-niveau/le-guide-du-haut-niveau"
+            >
+        Le Guide du haut niveau            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2627">
+    <a
+        href="/haut-niveau/pratiquer-haut-niveau/flash-infos-dtn"
+            >
+        Flash Infos DTN            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1370">
+    <a
+        href="/haut-niveau/pratiquer-haut-niveau/crhnj"
+            >
+        CRHNJ            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-573 has-submenu">
+    <a
+        href="/haut-niveau/equipes-de-france"
+            >
+        Équipes de France            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1367">
+    <a
+        href="/haut-niveau/equipes-de-france/modalites-de-selection"
+            >
+        Modalités de sélection            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1306">
+    <a
+        href="/athletes"
+            >
+        Nos champions            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-2215 has-submenu">
+    <a
+        href="/haut-niveau/jeux-olympiques-et-paralympiques"
+            >
+        Jeux Olympiques et Paralympiques            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-2211">
+    <a
+        href="/haut-niveau/jeux-olympiques-et-paralympiques/les-epreuves-olympiques"
+            >
+        Les épreuves olympiques            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2210">
+    <a
+        href="/haut-niveau/jeux-olympiques-et-paralympiques/nos-medailles"
+            >
+        Nos médaillés            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-575 has-submenu">
+    <a
+        href="/haut-niveau/lecole-du-tir-larc-francais"
+            >
+        L’École du Tir à l’Arc Français            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1373">
+    <a
+        href="/haut-niveau/lecole-du-tir-larc-francais/presentation-de-letaf"
+            >
+        Présentation de l’ETAF            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1374">
+    <a
+        href="/haut-niveau/lecole-du-tir-larc-francais/les-clubs-etaf"
+            >
+        Les clubs ETAF            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-552">
+                <div class="block-link">
+            <a href="http://www.ffta.fr/haut-niveau"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/jcv.jpg?itok=m1AtyBN3);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-553 has-submenu">
+    <a
+        href="/formations-emplois"
+            >
+        Formations & Emplois            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-579 has-submenu">
+    <a
+        href="/formations-emplois/dispositifs-de-formation"
+            >
+        Dispositifs de formation            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first last leaf menu-mlid-1376">
+    <a
+        href="/formations-emplois/dispositifs-de-formation/strategie-federale-du-developpement-des-formations"
+            >
+        Stratégie fédérale du développement des formations            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-581 has-submenu">
+    <a
+        href="/formations-emplois/formations-federales"
+            >
+        Formations fédérales            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-3387">
+    <a
+        href="/formations-emplois/formations-federales/encadrant-federal"
+            >
+        Encadrant Fédéral            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-3386">
+    <a
+        href="/formations-emplois/formations-federales/entraineur-federal"
+            >
+        Entraîneur Fédéral            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-3798">
+    <a
+        href="/formations-emplois/formations-federales/sport-sante-bien-etre-tir-larc-sur-ordonnance"
+            >
+        Tir à l'arc sur ordonnance            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1379">
+    <a
+        href="/formations-emplois/formations-federales/les-formations-continues"
+            >
+        Les formations continues            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-580 has-submenu">
+    <a
+        href="/formations-emplois/formations-detat"
+            >
+        Formations d’État            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first last leaf menu-mlid-1382">
+    <a
+        href="/formations-emplois/formations-detat/dejeps"
+            >
+        DEJEPS            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-577 has-submenu">
+    <a
+        href="/formations-emplois/formations-de-branche"
+            >
+        Formations de branche : CQP            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1388">
+    <a
+        href="/formations-emplois/formations-de-branche-cqp/cqp-animateur-tir-larc"
+            >
+        CQP Animateur tir à l’arc            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1385">
+    <a
+        href="/formations-emplois/formations-de-branche-cqp/cqp-technicien-sportif-cqpts"
+            >
+        CQP Technicien Sportif            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-578 has-submenu">
+    <a
+        href="/formations-emplois/bourses-de-lemploi"
+            >
+        Bourses de l'emploi            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-1395">
+    <a
+        href="/formations-emplois/deposer-offre-emploi"
+            >
+        Déposer une offre d’emploi            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1394">
+    <a
+        href="/formations-emplois/deposer-demande-emploi"
+            >
+        Déposer une demande d’emploi            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1393">
+    <a
+        href="/offres-emplois"
+            >
+        Voir les offres d’emploi            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1392">
+    <a
+        href="/demandes-emplois"
+            >
+        Voir les demandes d’emploi            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-2645 has-submenu">
+    <a
+        href="/formations-emplois/guide-de-lemployeur"
+            >
+        Emploi            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-4654">
+    <a
+        href="/formations-emplois/emploi/enquete-emploi-2022"
+            >
+        Enquête emploi 2022            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-4669">
+    <a
+        href="/formations-emplois/emploi/plan-emploi-federal"
+            >
+        Plan Emploi Fédéral            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2591">
+    <a
+        href="/formations-emplois/emplois/service-civique"
+            >
+        Service Civique            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-553">
+                <div class="block-link">
+            <a href="http://www.ffta.fr/formations-emplois"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/formation_0.jpg?itok=YIQMqMbW);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="expanded menu-mlid-4012 has-submenu">
+    <a
+        href="/prevention"
+            >
+        Prévention            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first expanded menu-mlid-4437 has-submenu">
+    <a
+        href="/infos-covid"
+            >
+        Info Covid            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first last leaf menu-mlid-4024">
+    <a
+        href="/gestes-barrieres"
+            >
+        Les gestes barrières            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-4014 has-submenu">
+    <a
+        href="/prevention-violences"
+            >
+        Prévention violences            </a>
+
+          <div class="submenu menu-delta-2">
+                  
+<ul>
+    
+<li  class="first leaf menu-mlid-4438">
+    <a
+        href="/prevention/prevention-violences/la-ffta-sengage"
+            >
+        La FFTA s'engage            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-4013">
+    <a
+        href="/prevention/prevention-violences/victime-ou-temoin-qui-contacter"
+            >
+        Victime ou témoin : qui contacter ?            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-4436">
+    <a
+        href="/prevention/prevention-violences/la-radicalisation-dans-le-sport"
+            >
+        Prévention de la radicalisation            </a>
+
+    </li>
+</ul>
+              </div>
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+              <div class="bloc-push block-push-4012">
+                <div class="block-link">
+            <a href="http://www.ffta.fr/prevention"><span class='bg' style='background-image:url(https://www.ffta.fr/sites/ffta/files/styles/push-menu/public/ssd_menu_block_push/images/prevention.jpg?itok=8O1RqzIK);'></span></a>        </div>
+          
+</div>
+            </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="leaf menu-mlid-1804 visible-xs">
+    <a
+        href="/search"
+            >
+        Rechercher sur le site            </a>
+
+    </li>
+
+<li  class="expanded active menu-mlid-2596 visible-xs has-submenu">
+    <a
+        href="/"
+            >
+        Univers            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first leaf menu-mlid-2595 visible-xs">
+    <a
+        href="/tir-sur-cibles"
+            >
+        Tir sur cibles            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2598">
+    <a
+        href="/tir-beursault"
+            >
+        Tir beursault            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2597">
+    <a
+        href="/tir-de-parcours"
+            >
+        Tir de parcours            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2599">
+    <a
+        href="/vie-federale"
+            >
+        Vie fédérale            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-4651">
+    <a
+        href="/para"
+            >
+        Para-tir à l'arc            </a>
+
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+                          </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="leaf menu-mlid-2600 visible-xs">
+    <a
+        href="/ws/epreuves"
+            >
+        Compétitions et résultats            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2609 visible-xs">
+    <a
+        href="/actualites"
+            >
+        Actualités            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2608 visible-xs">
+    <a
+        href="/documents"
+            >
+        Documents            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2607 visible-xs">
+    <a
+        href="/medias"
+            >
+        Médias            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2610 visible-xs">
+    <a
+        href="/evenements"
+            >
+        Évènements            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1799 visible-xs club-item">
+    <a
+        href="https://ffta.maps.arcgis.com/apps/webappviewer/index.html?id=6aad81b836e840d8913dbe46e379aebd"
+            >
+        Chercher un club            </a>
+
+    </li>
+
+<li  class="expanded active menu-mlid-2601 visible-xs has-submenu">
+    <a
+        href="/"
+            >
+        Liens externes            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first leaf menu-mlid-2603">
+    <a
+        href="https://ffta.ugal.com/login/?r=http%3A%2F%2Fboutique%2Effta%2Efr"
+            >
+        Boutique clubs            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2604">
+    <a
+        href="https://boutiqueofficielle-ffta.fr/"
+            >
+        Boutique officielle            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2602">
+    <a
+        href="/vie-sportive/resultats/classements-nationaux"
+            >
+        Classements            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-2605">
+    <a
+        href="https://ffta-goal.multimediabs.com/intranet"
+            >
+        Espace dirigeant            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-2606">
+    <a
+        href="https://ffta-goal.multimediabs.com/espaceLicencie"
+            >
+        Espace licencié            </a>
+
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+                          </div>
+          </div>
+              </div>
+    </li>
+
+<li  class="last expanded menu-mlid-1800 visible-xs has-submenu">
+    <a
+        href="https://twitter.com/FFTiralArc"
+            >
+        Sur les réseaux sociaux            </a>
+
+          <div class="submenu menu-delta-1">
+                  <div class="container">
+            <div class="col-sm-12 col-md-8">
+              <div class="row submenu-lists">
+                
+<ul>
+    
+<li  class="first leaf menu-mlid-1803">
+    <a
+        href="http://www.youtube.com/fftatv"
+         target="_blank"    >
+        FFTA TV            </a>
+
+    </li>
+
+<li  class="leaf menu-mlid-1801">
+    <a
+        href="https://www.facebook.com/fftiralarc/"
+         target="_blank"    >
+        Page facebook            </a>
+
+    </li>
+
+<li  class="last leaf menu-mlid-1802">
+    <a
+        href="https://twitter.com/FFTiralArc"
+         target="_blank"    >
+        Sur twitter            </a>
+
+    </li>
+</ul>
+              </div>
+            </div>
+            <div class="hidden-xs hidden-sm col-md-4">
+                          </div>
+          </div>
+              </div>
+    </li>
+</ul>
+</div>
+  </div>
+</div>
+  </div>
+        </div>
+
+    </header>
+
+
+
+    <div id="main-wrapper"><div id="main" class="clearfix">
+
+      <div id="content" class="column">
+
+        <div class="container">
+
+
+                    <a id="main-content"></a>
+
+          <div class="row">
+            <div class="col-xs-12">
+                            <h1 class="title sr-only" id="page-title">Fédération Française de Tir à l&#039;Arc</h1>                            <div class="tabs"></div>                                                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+<div id="node-10" class="node node-accueil node-promoted node-accueil-full clearfix" about="/node/10" typeof="sioc:Item foaf:Document">
+
+  
+  <div class="col-xs-12 section-pane clearfix">
+
+    <h2 class="title-section hidden-xs"><span class="content">Actualités</span></h2>
+
+    <div class="clearfix">
+
+      <div class="hidden-xs">
+        <div class="row">
+          <div class="actus-une-container">
+            <div id="actualites-actualites_une" class="view view-actualites view-id-actualites view-display-id-actualites_une view-dom-id-be00cceeb65947f5b35dabba8b51884e">
+
+
+        
+
+
+  
+      <div class="view-content ">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-48848" class="univers-1 node node-actu node-promoted node-actu-a_la_une clearfix" about="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/une/public/field/image-news/whatsapp_image_2023-06-10_at_18.48.54.jpeg?itok=afMPFr7b" width="753" height="502" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-12T10:42:38+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+12/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            JUNIOR CUP  - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+                    <h2><a href="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur">Les Bleuets cartonnent en Suisse, 13 médailles au compteur </a></h2>
+            <span property="dc:title" content="Les Bleuets cartonnent en Suisse, 13 médailles au compteur " class="rdf-meta element-hidden"></span>
+          </div>
+  </div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-48845" class="univers-1 node node-actu node-promoted node-actu-a_la_une clearfix" about="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/une/public/field/image-news/x21_35551.jpg?itok=tr4GYAvi" width="753" height="502" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-08T16:46:38+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+08/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            3EME ETAPE DE COUPE DU MONDE - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+                    <h2><a href="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde">L&#039;équipe de France à Medellin pour la 3ème étape de Coupe du Monde </a></h2>
+            <span property="dc:title" content="L&#039;équipe de France à Medellin pour la 3ème étape de Coupe du Monde " class="rdf-meta element-hidden"></span>
+          </div>
+  </div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div id="node-48841" class="univers-4 node node-actu node-promoted node-actu-a_la_une clearfix" about="/actualites/gas-bowstrings-rejoint-le-club-des-partenaires-de-la-ffta" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/gas-bowstrings-rejoint-le-club-des-partenaires-de-la-ffta"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/une/public/field/image-news/gasbowstring.png?itok=oDQdD8kr" width="753" height="502" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-08T08:26:39+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+08/06/2023</strong>
+</span>          </div>
+                      </div>
+                    <h2><a href="/actualites/gas-bowstrings-rejoint-le-club-des-partenaires-de-la-ffta">GAS Bowstrings rejoint le Club des Partenaires de la FFTA</a></h2>
+            <span property="dc:title" content="GAS Bowstrings rejoint le Club des Partenaires de la FFTA" class="rdf-meta element-hidden"></span>
+          </div>
+  </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>            <div class="hide"><div id="pub-pub_hp_actu" class="view view-pub view-id-pub view-display-id-pub_hp_actu view-dom-id-9152d8e04a93949230e16ba449e20ae7">
+
+
+        
+
+
+  
+      <div class="view-content ">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last" data-pub-id="143">
+    <div class="pub" data-pub-id="143">
+<a href="http://www.sanlidaarchery.com/" target="_blank"><div class="field field-name-field-image field-type-image field-label-hidden">
+                              <img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/home_page_news-750x640-compound.jpg" width="720" height="614" alt="" />                </div>
+</a></div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="actus-home-container">
+            <div class="col-xs-12 col-md-8">
+              <div id="actualites-actus_home" class="view view-actualites view-id-actualites view-display-id-actus_home view-dom-id-6a40e547e9dd766a07ac5bc35788a711">
+
+
+        
+
+
+  
+      <div class="view-content ">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-48847" class="univers-1 node node-actu node-actu-inline clearfix" about="/actualites/7-medailles-par-equipe-pour-les-bleuets" typeof="sioc:Item foaf:Document">
+  <div class="content">
+    <div class="illu">
+      <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/7-medailles-par-equipe-pour-les-bleuets"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/image-news/bleuets.jpg?itok=10rdwQ0E" width="280" height="190" alt="" /></a>                </div>
+    </div>
+    <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-09T17:49:01+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+09/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            JUNIOR CUP  - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+            <h2><a href="/actualites/7-medailles-par-equipe-pour-les-bleuets">7 médailles par équipe pour les Bleuets</a></h2>
+      <span property="dc:title" content="7 médailles par équipe pour les Bleuets" class="rdf-meta element-hidden"></span>
+              <div class="resume">
+          Carton plein pour les jeunes de l&#039;équipe de France ! Pour cette journée de finales par équipes, les Bleuets empochent 7 médailles.        </div>
+      
+    </div>
+  </div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even views-row-last">
+    <div id="node-48844" class="univers-1 node node-actu node-actu-inline clearfix" about="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin" typeof="sioc:Item foaf:Document">
+  <div class="content">
+    <div class="illu">
+      <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/image-news/dsc00159u.jpg?itok=wHARjpGz" width="280" height="190" alt="" /></a>                </div>
+    </div>
+    <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-08T15:39:24+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+08/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            CHAMPIONNAT DE FRANCE - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+            <h2><a href="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin">Rappel championnats de France TAE - Limite d&#039;inscription le 21 juin</a></h2>
+      <span property="dc:title" content="Rappel championnats de France TAE - Limite d&#039;inscription le 21 juin" class="rdf-meta element-hidden"></span>
+              <div class="resume">
+          Les Championnats de France TAE se dérouleront du 21 au 30 juillet prochains à Riom (Auvergne-Rhône-Alpes).        </div>
+      
+    </div>
+  </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>            </div>
+            <div class="col-xs-12 col-md-4">
+              <div id="actualites-actualites_breves" class="view view-actualites view-id-actualites view-display-id-actualites_breves view-dom-id-e10c4f75a7da693756e4eeca8e129f0a">
+  <h1 class="view-title">Fil infos</h1>
+  <div class="nano actu-breve__container">
+          <div class="view-content nano-content">
+          <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-48846" class="actu-breve node node-actu node-actu-breve clearfix" about="/actualites/deces-de-jean-blanc" typeof="sioc:Item foaf:Document">
+  <div class="actu-breve__submitted">
+    <span property="dc:date dc:created" content="2023-06-09T17:03:57+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+09/06/2023</strong>
+</span>  </div>
+  <a href="/actualites/deces-de-jean-blanc" class="actu-breve__title">Décés de Jean Blanc</a>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-48788" class="actu-breve node node-actu node-actu-breve clearfix" about="/actualites/mise-jour-des-modes-de-selection-campagne-2023" typeof="sioc:Item foaf:Document">
+  <div class="actu-breve__submitted">
+    <span property="dc:date dc:created" content="2023-05-04T17:02:52+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+04/05/2023</strong>
+</span>  </div>
+  <a href="/actualites/mise-jour-des-modes-de-selection-campagne-2023" class="actu-breve__title">Mise à jour des modes de sélection Campagne 2023</a>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div id="node-48781" class="actu-breve node node-actu node-actu-breve clearfix" about="/actualites/la-federation-recrute-coach-pour-lequipe-de-france-de-tir-parcours" typeof="sioc:Item foaf:Document">
+  <div class="actu-breve__submitted">
+    <span property="dc:date dc:created" content="2023-04-26T15:30:38+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+26/04/2023</strong>
+</span>  </div>
+  <a href="/actualites/la-federation-recrute-coach-pour-lequipe-de-france-de-tir-parcours" class="actu-breve__title">La fédération recrute : Coach pour l&#039;équipe de France de tir parcours</a>
+</div>
+  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+    <div id="node-48740" class="actu-breve node node-actu node-actu-breve clearfix" about="/actualites/mise-en-ligne-des-modes-de-selection-parcours-2023" typeof="sioc:Item foaf:Document">
+  <div class="actu-breve__submitted">
+    <span property="dc:date dc:created" content="2023-03-27T12:12:13+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+27/03/2023</strong>
+</span>  </div>
+  <a href="/actualites/mise-en-ligne-des-modes-de-selection-parcours-2023" class="actu-breve__title">Mise en ligne des modes de sélection Parcours 2023</a>
+</div>
+  </div>
+      </div>
+      </div>
+</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="visible-xs">
+                <div class="mobile-actus">
+                      <div id="pub-pub_hp_actu" class="view view-pub view-id-pub view-display-id-pub_hp_actu view-dom-id-894fdae8c1614bbe89df468f84269694">
+
+
+        
+
+
+  
+      <div class="view-content ">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last" data-pub-id="143">
+    <div class="pub" data-pub-id="143">
+<a href="http://www.sanlidaarchery.com/" target="_blank"><div class="field field-name-field-image field-type-image field-label-hidden">
+                              <img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/home_page_news-750x640-compound.jpg" width="720" height="614" alt="" />                </div>
+</a></div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>                    <div id="node-48848" class="univers-1 node node-actu node-promoted node-actu-miniature clearfix" about="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/miniature/public/field/image-news/whatsapp_image_2023-06-10_at_18.48.54.jpeg?itok=5ADkCh6V" width="360" height="110" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-12T10:42:38+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+12/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            JUNIOR CUP  - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+                    <h2><a href="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur">Les Bleuets cartonnent en Suisse, 13 médailles au compteur </a></h2>
+            <span property="dc:title" content="Les Bleuets cartonnent en Suisse, 13 médailles au compteur " class="rdf-meta element-hidden"></span>              <div class="field field-name-field-resume field-type-text-long field-label-hidden">
+                              Ce samedi, les Bleuets ont ajouté 6 nouvelles médailles à leur compteur de la junior Cup de Sion en Suisse.                </div>
+            <a class="link-node" href="/actualites/les-bleuets-cartonnent-en-suisse-13-medailles-au-compteur">Lire l'article</a>
+    </div>
+  </div>
+</div>
+<div id="node-48847" class="univers-1 node node-actu node-actu-miniature clearfix" about="/actualites/7-medailles-par-equipe-pour-les-bleuets" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/7-medailles-par-equipe-pour-les-bleuets"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/miniature/public/field/image-news/bleuets.jpg?itok=j9qRnD57" width="360" height="110" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-09T17:49:01+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+09/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            JUNIOR CUP  - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+                    <h2><a href="/actualites/7-medailles-par-equipe-pour-les-bleuets">7 médailles par équipe pour les Bleuets</a></h2>
+            <span property="dc:title" content="7 médailles par équipe pour les Bleuets" class="rdf-meta element-hidden"></span>              <div class="field field-name-field-resume field-type-text-long field-label-hidden">
+                              Carton plein pour les jeunes de l&#039;équipe de France ! Pour cette journée de finales par équipes, les Bleuets empochent 7 médailles.                </div>
+            <a class="link-node" href="/actualites/7-medailles-par-equipe-pour-les-bleuets">Lire l'article</a>
+    </div>
+  </div>
+</div>
+<div id="node-48846" class="actu-breve univers- node node-actu node-actu-miniature clearfix" about="/actualites/deces-de-jean-blanc" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/deces-de-jean-blanc"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/miniature/public/default_images/ffta-default-image_0.png?itok=pB_rb4I9" width="360" height="110" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-09T17:03:57+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+09/06/2023</strong>
+</span>          </div>
+                      </div>
+                    <h2><a href="/actualites/deces-de-jean-blanc">Décés de Jean Blanc</a></h2>
+            <span property="dc:title" content="Décés de Jean Blanc" class="rdf-meta element-hidden"></span>              <div class="field field-name-field-texte-breve field-type-text-long field-label-hidden">
+                              <p></p>                </div>
+            <a class="link-node" href="/actualites/deces-de-jean-blanc">Lire l'article</a>
+    </div>
+  </div>
+</div>
+<div id="node-48845" class="univers-1 node node-actu node-promoted node-actu-miniature clearfix" about="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/miniature/public/field/image-news/x21_35551.jpg?itok=xwctyLGc" width="360" height="110" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-08T16:46:38+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+08/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            3EME ETAPE DE COUPE DU MONDE - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+                    <h2><a href="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde">L&#039;équipe de France à Medellin pour la 3ème étape de Coupe du Monde </a></h2>
+            <span property="dc:title" content="L&#039;équipe de France à Medellin pour la 3ème étape de Coupe du Monde " class="rdf-meta element-hidden"></span>              <div class="field field-name-field-resume field-type-text-long field-label-hidden">
+                              Du 13 au 18 juin, les archers de l&#039;équipe de France seront à Medellin (Colombie) pour disputer la troisième étape de la Coupe du Monde Hyundai de tir à l&#                </div>
+            <a class="link-node" href="/actualites/lequipe-de-france-medellin-pour-la-3eme-etape-de-coupe-du-monde">Lire l'article</a>
+    </div>
+  </div>
+</div>
+<div id="node-48844" class="univers-1 node node-actu node-actu-miniature clearfix" about="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin" typeof="sioc:Item foaf:Document">
+  <div class="content">
+          <div class="illu">
+        <div class="field field-name-field-image field-type-image field-label-hidden">
+                              <a href="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/miniature/public/field/image-news/dsc00159u.jpg?itok=S40Gzibt" width="360" height="110" alt="" /></a>                </div>
+        <span class="hover"></span>
+      </div>
+        <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-06-08T15:39:24+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+08/06/2023</strong>
+</span>          </div>
+                          <div class="associated-event">
+            CHAMPIONNAT DE FRANCE - Tir à l'Arc Extérieur Individuel 2023          </div>
+              </div>
+                    <h2><a href="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin">Rappel championnats de France TAE - Limite d&#039;inscription le 21 juin</a></h2>
+            <span property="dc:title" content="Rappel championnats de France TAE - Limite d&#039;inscription le 21 juin" class="rdf-meta element-hidden"></span>              <div class="field field-name-field-resume field-type-text-long field-label-hidden">
+                              Les Championnats de France TAE se dérouleront du 21 au 30 juillet prochains à Riom (Auvergne-Rhône-Alpes).                </div>
+            <a class="link-node" href="/actualites/rappel-championnats-de-france-tae-limite-dinscription-le-21-juin">Lire l'article</a>
+    </div>
+  </div>
+</div>
+        </div>
+      </div>
+    </div>
+    <a href="/actualites" class="btn default b up full-width clearfix">Toutes les actualités</a>
+  </div>
+
+
+  <div class="col-xs-12 section-pane">
+    <h2 class="title-section"><span class="content">Événements <strong>Nationaux</strong> et <strong>Internationaux</strong></span></h2>
+    <div class="row">
+      <div class="col-xs-12">
+                  <div id="evenements-next_events" class="view view-evenements view-id-evenements view-display-id-next_events view-dom-id-a0c436b6c4da5fd988c1bfbd6bda6a47">
+
+
+        
+
+
+  
+      <div class="view-content ">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-univers">        <div class="field-content"><span class="univers-info univers-1"></span>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="form-epreuves-results">
+
+  <div class="text eprv-state-A">
+        <a href="/evenements/junior-cup-tir-larc-exterieur-individuel-2023-0">JUNIOR CUP  - Tir à l&#039;Arc Extérieur Individuel 2023</a>      </div>
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-05T00:00:00+02:00">05/06/2023</span> au <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-11T00:00:00+02:00">11/06/2023</span></span></div>  </div>  
+  <div class="views-field views-field-field-adresse-locality">        <div class="field-content">SION - SUISSE</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/evenements/junior-cup-tir-larc-exterieur-individuel-2023-0">></a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-univers">        <div class="field-content"><span class="univers-info univers-1"></span>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="form-epreuves-results">
+
+  <div class="text eprv-state-A">
+    <strong>    <a href="/evenements/3eme-etape-de-coupe-du-monde-tir-larc-exterieur-individuel-2023">3EME ETAPE DE COUPE DU MONDE - Tir à l&#039;Arc Extérieur Individuel 2023</a>    </strong>  </div>
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-13T00:00:00+02:00">13/06/2023</span> au <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-18T00:00:00+02:00">18/06/2023</span></span></div>  </div>  
+  <div class="views-field views-field-field-adresse-locality">        <div class="field-content">MEDELLIN - COLOMBIE</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/evenements/3eme-etape-de-coupe-du-monde-tir-larc-exterieur-individuel-2023">></a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-univers">        <div class="field-content"><span class="univers-info univers-1"></span>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="form-epreuves-results">
+
+  <div class="text eprv-state-A">
+        <a href="/evenements/tnj-3-tir-larc-exterieur-individuel-2023">TNJ 3  - Tir à l&#039;Arc Extérieur Individuel 2023</a>      </div>
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-16T00:00:00+02:00">16/06/2023</span> au <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-18T00:00:00+02:00">18/06/2023</span></span></div>  </div>  
+  <div class="views-field views-field-field-adresse-locality">        <div class="field-content">VAGNEY</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/evenements/tnj-3-tir-larc-exterieur-individuel-2023">></a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-univers">        <div class="field-content"><span class="univers-info univers-5999"></span>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="form-epreuves-results">
+
+  <div class="text eprv-state-A">
+        <a href="/evenements/championnat-de-france-para-tir-larc-tae-para-tir-larc-en-exterieur-individuel-2023">CHAMPIONNAT DE FRANCE PARA-TIR A L&#039;ARC TAE - Para-tir à l&#039;arc en extérieur Individuel 2023</a>      </div>
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-16T00:00:00+02:00">16/06/2023</span> au <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-18T00:00:00+02:00">18/06/2023</span></span></div>  </div>  
+  <div class="views-field views-field-field-adresse-locality">        <div class="field-content">RICHELIEU</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/evenements/championnat-de-france-para-tir-larc-tae-para-tir-larc-en-exterieur-individuel-2023">></a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-univers">        <div class="field-content"><span class="univers-info univers-1"></span>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="form-epreuves-results">
+
+  <div class="text eprv-state-X">
+        <a href="/evenements/championnat-de-france-militaire-tir-larc-exterieur-individuel-2023">CHAMPIONNAT DE FRANCE MILITAIRE - Tir à l&#039;Arc Extérieur Individuel 2023</a>      </div>
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-21T00:00:00+02:00">21/06/2023</span> au <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-22T00:00:00+02:00">22/06/2023</span></span></div>  </div>  
+  <div class="views-field views-field-field-adresse-locality">        <div class="field-content">AUXERRE</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/evenements/championnat-de-france-militaire-tir-larc-exterieur-individuel-2023">></a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-univers">        <div class="field-content"><span class="univers-info univers-1"></span>
+</div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="form-epreuves-results">
+
+  <div class="text eprv-state-A">
+        <a href="/evenements/championnnat-de-france-fcd-tir-larc-exterieur-individuel-2023">CHAMPIONNNAT DE FRANCE F.C.D. - Tir à l&#039;Arc Extérieur Individuel 2023</a>      </div>
+</div>
+</span>  </div>  
+  <div class="views-field views-field-field-date">        <div class="field-content"><span class="date-display-range"><span class="date-display-start" property="dc:date" datatype="xsd:dateTime" content="2023-06-23T00:00:00+02:00">23/06/2023</span> au <span class="date-display-end" property="dc:date" datatype="xsd:dateTime" content="2023-06-24T00:00:00+02:00">24/06/2023</span></span></div>  </div>  
+  <div class="views-field views-field-field-adresse-locality">        <div class="field-content">AUXERRE</div>  </div>  
+  <div class="views-field views-field-view-node">        <span class="field-content"><a href="/evenements/championnnat-de-france-fcd-tir-larc-exterieur-individuel-2023">></a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>              </div>
+            <div class="col-xs-12">
+        <a href="/evenements" class="btn default b up full-width">Tous les évènements</a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="col-xs-12 section-pane">
+    <div class="row">
+<div class="paragraphs-items paragraphs-items-field-ssd-composants paragraphs-items-field-ssd-composants-full paragraphs-items-full">
+        
+
+  <div class="colored-gold direction-left col-xs-12 col-sm-6 entity entity-paragraphs-item paragraphs-item-bloc-push">
+    <div class="inner">
+                    <a href="https://www.ffta.fr/tir-larc-archer-pour-la-vie" target="_blank" class="bloc-link"></a>
+        <a href="https://www.ffta.fr/tir-larc-archer-pour-la-vie" target="_blank" style="background-image: url('https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/block-push/ffta_recrutement2022_3000x2000_2.jpg?itok=vM1GnlZR');" class="image">
+          <span class="hover"></span>
+        </a>
+        <div class="text">
+          <div class="content">
+            <div class="title">Archer pour la vie</div>
+            <p>
+	Venez découvrir le tir à l'arc dans un clubs de la FFTA.
+</p>
+          </div>
+          <a href="https://www.ffta.fr/tir-larc-archer-pour-la-vie" class="link" target="_blank"><span>&nbsp;</span></a>        </div>
+          </div>
+  </div>
+      
+
+  <div class="colored-gold direction-left col-xs-12 col-sm-6 entity entity-paragraphs-item paragraphs-item-bloc-push">
+    <div class="inner">
+                    <a href="https://www.archeryworldcup.paris/fr" target="_blank" class="bloc-link"></a>
+        <a href="https://www.archeryworldcup.paris/fr" target="_blank" style="background-image: url('https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/block-push/wcparis23_1200x1200.jpg?itok=u_6ZFSgQ');" class="image">
+          <span class="hover"></span>
+        </a>
+        <div class="text">
+          <div class="content">
+            <div class="title">Coupe du Monde Hyundai Paris</div>
+            <p>
+	du 15 au 20 août 2023
+</p>
+<p>
+	<strong>- Informations &amp; billetterie -</strong>
+</p>
+<p>
+	www.archeryworldcup.paris
+</p>
+          </div>
+          <a href="https://www.archeryworldcup.paris/fr" class="link" target="_blank"><span>&nbsp;</span></a>        </div>
+          </div>
+  </div>
+      
+
+  <div class="colored-gold direction-left col-xs-12 col-sm-6 entity entity-paragraphs-item paragraphs-item-bloc-push">
+    <div class="inner">
+                    <a href="https://www.ffta.fr/actualites/partage-tes-fleches-invite-tes-amis-pour-un-challenge-par-equipe" target="_blank" class="bloc-link"></a>
+        <a href="https://www.ffta.fr/actualites/partage-tes-fleches-invite-tes-amis-pour-un-challenge-par-equipe" target="_blank" style="background-image: url('https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/block-push/microsoftteams-image-2.png?itok=BKSbNF6a');" class="image">
+          <span class="hover"></span>
+        </a>
+        <div class="text">
+          <div class="content">
+            <div class="title">Partage tes flèches</div>
+            <p>
+	L'opération revient<br />
+	du 15 mars au 15 avril 2023.
+</p>
+<p>
+	Invite tes amis et partage ta passion !
+</p>
+          </div>
+          <a href="https://www.ffta.fr/actualites/partage-tes-fleches-invite-tes-amis-pour-un-challenge-par-equipe" class="link" target="_blank"><span>&nbsp;</span></a>        </div>
+          </div>
+  </div>
+      
+
+  <div class="colored-dark-blue direction-left col-xs-12 col-sm-6 entity entity-paragraphs-item paragraphs-item-bloc-push">
+    <div class="inner">
+                    <a href="https://jeuxtirarc-ffta.web.app/page-login" target="_blank" class="bloc-link"></a>
+        <a href="https://jeuxtirarc-ffta.web.app/page-login" target="_blank" style="background-image: url('https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/block-push/jeux_du_tir_a_larc_fond.jpg?itok=J_OYPcWl');" class="image">
+          <span class="hover"></span>
+        </a>
+        <div class="text">
+          <div class="content">
+            <div class="title">Les Jeux du tir à l'arc</div>
+            <p>
+	Du 1er mai au 30 juin 2023<br />
+	Des challenges par équipe mixte pour les jeunes non-compétiteurs
+</p>
+          </div>
+          <a href="https://jeuxtirarc-ffta.web.app/page-login" class="link" target="_blank"><span>&nbsp;</span></a>        </div>
+          </div>
+  </div>
+      
+
+  <div class="colored-dark-blue direction-left col-xs-12 col-sm-6 entity entity-paragraphs-item paragraphs-item-bloc-push">
+    <div class="inner">
+                    <a href="https://boutiqueofficielle-ffta.fr/" target="_blank" class="bloc-link"></a>
+        <a href="https://boutiqueofficielle-ffta.fr/" target="_blank" style="background-image: url('https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/block-push/2021_12_01_lancement.png?itok=7tleogEq');" class="image">
+          <span class="hover"></span>
+        </a>
+        <div class="text">
+          <div class="content">
+            <div class="title">Boutique officielle</div>
+            <p>
+	Découvrez une gamme de vêtements et accessoires à l'effigie de la FFTA.
+</p>
+          </div>
+          <a href="https://boutiqueofficielle-ffta.fr/" class="link" target="_blank"><span>&nbsp;</span></a>        </div>
+          </div>
+  </div>
+      
+
+  <div class="colored-dark-blue direction-left col-xs-12 col-sm-6 entity entity-paragraphs-item paragraphs-item-bloc-push">
+    <div class="inner">
+                    <a href="https://www.ffta.fr/la-federation/international/club-des-supporters-france-tir-larc" target="_blank" class="bloc-link"></a>
+        <a href="https://www.ffta.fr/la-federation/international/club-des-supporters-france-tir-larc" target="_blank" style="background-image: url('https://www.ffta.fr/sites/ffta/files/styles/push-demi/public/field/block-push/bandeau_club_des_supporters.png?itok=dHXyePAW');" class="image">
+          <span class="hover"></span>
+        </a>
+        <div class="text">
+          <div class="content">
+            <div class="title">Club des Supporters</div>
+            <p>
+	Rejoignez le club des supporters des équipes de France de tir à l'arc et vibrez ensemble pour nos athlètes !
+</p>
+          </div>
+          <a href="https://www.ffta.fr/la-federation/international/club-des-supporters-france-tir-larc" class="link" target="_blank"><span>&nbsp;</span></a>        </div>
+          </div>
+  </div>
+  </div>
+</div>
+  </div>
+
+  <div class="col-xs-12 section-pane">
+      <h2 class="title-section"><span class="content"><strong>Photos</strong> & <strong>vidéos</strong></span></h2>
+      <div id="medias-home" class="view view-medias view-id-medias view-display-id-home view-dom-id-63324b42d25cd77a46d299e3481ebb1e">
+
+
+        
+
+
+  
+      <div class="view-content ">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div id="node-48823" class="node node-galerie node-promoted node-galerie-miniature clearfix" about="/medias/trophee-des-mixtes-chennevieres-sur-marne-2023" typeof="sioc:Item foaf:Document">
+
+  <div class="content" >
+    <a href="/medias/trophee-des-mixtes-chennevieres-sur-marne-2023" class="illu">
+      
+
+  <div class="entity entity-paragraphs-item paragraphs-item-image">
+          <div class="item active">
+        <img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/media-miniature/public/field/medias-add/dsc03811.jpg?itok=uhXcbROl" width="746" height="440" alt="" />      </div>
+      </div>
+      <span class="hover"></span>
+    </a>
+    <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-05-31T10:24:21+02:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+31/05/2023</strong>
+</span>          </div>
+              </div>
+                    <h3><a href="/medias/trophee-des-mixtes-chennevieres-sur-marne-2023">Trophée des Mixtes - Chennevières-sur-Marne 2023</a></h3>
+            <span property="dc:title" content="Trophée des Mixtes - Chennevières-sur-Marne 2023" class="rdf-meta element-hidden"></span>    </div>
+
+  </div>
+</div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div id="node-48728" class="node node-galerie node-promoted node-galerie-miniature clearfix" about="/medias/championnat-de-france-para-tir-larc-18m-ste-genevieve-des-bois-2023" typeof="sioc:Item foaf:Document">
+
+  <div class="content" >
+    <a href="/medias/championnat-de-france-para-tir-larc-18m-ste-genevieve-des-bois-2023" class="illu">
+      
+
+  <div class="entity entity-paragraphs-item paragraphs-item-image">
+          <div class="item active">
+        <img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/media-miniature/public/field/medias-add/dsc03272.jpg?itok=VQX0MaBH" width="746" height="440" alt="" />      </div>
+      </div>
+      <span class="hover"></span>
+    </a>
+    <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-03-21T17:37:17+01:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+21/03/2023</strong>
+</span>          </div>
+              </div>
+                    <h3><a href="/medias/championnat-de-france-para-tir-larc-18m-ste-genevieve-des-bois-2023">Championnat de France Para-tir à l&#039;arc à 18m - Ste Geneviève des Bois 2023</a></h3>
+            <span property="dc:title" content="Championnat de France Para-tir à l&#039;arc à 18m - Ste Geneviève des Bois 2023" class="rdf-meta element-hidden"></span>    </div>
+
+  </div>
+</div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div id="node-48720" class="node node-galerie node-promoted node-galerie-miniature clearfix" about="/medias/championnat-de-france-elite-adultes-tir-18m-grenoble-2023" typeof="sioc:Item foaf:Document">
+
+  <div class="content" >
+    <a href="/medias/championnat-de-france-elite-adultes-tir-18m-grenoble-2023" class="illu">
+      
+
+  <div class="entity entity-paragraphs-item paragraphs-item-image">
+          <div class="item active">
+        <img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/media-miniature/public/field/medias-add/mal_2499.jpg?itok=5ACEslUd" width="746" height="440" alt="" />      </div>
+      </div>
+      <span class="hover"></span>
+    </a>
+    <div class="details">
+      <div class="metas">
+                  <div class="submitted">
+            <span property="dc:date dc:created" content="2023-03-14T19:13:50+01:00" datatype="xsd:dateTime" rel="sioc:has_creator"><strong>
+14/03/2023</strong>
+</span>          </div>
+              </div>
+                    <h3><a href="/medias/championnat-de-france-elite-adultes-tir-18m-grenoble-2023">Championnat de France Élite &amp; Adultes Tir à 18m - Grenoble 2023</a></h3>
+            <span property="dc:title" content="Championnat de France Élite &amp; Adultes Tir à 18m - Grenoble 2023" class="rdf-meta element-hidden"></span>    </div>
+
+  </div>
+</div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>      <a href="/medias" class="btn default b up full-width">Toutes les photos et vidéos</a>
+  </div>
+
+  <div class="col-xs-12 section-pane">
+    <h2 class="title-section"><span class="content">Nos <strong>partenaires premium</strong></span></h2>
+    <div class="row">
+      <div class="col-xs-12">
+        <div id="partenaires-partenaires_premium" class="view view-partenaires view-id-partenaires view-display-id-partenaires_premium view-dom-id-8fb37fb99e25578e9da0135e307e4fe0">
+
+
+        
+
+
+  
+      <div class="view-content ">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first"><div id="node-28324" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/agence-nationale-du-sport" typeof="sioc:Item foaf:Document">
+        <a href="https://www.agencedusport.fr" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/fichier_1_1.jpg?itok=817t_DvP" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-2 views-row-even"><div id="node-29153" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/avalon-archery" typeof="sioc:Item foaf:Document">
+        <a href="http://www.ssa-archery.be" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/logo_avalon_website.png?itok=PnnME2wX" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-3 views-row-odd"><div id="node-30" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/easton" typeof="sioc:Item foaf:Document">
+        <a href="http://www.eastonarchery.com/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/easton.png?itok=dzcdgQbX" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-4 views-row-even"><div id="node-29870" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/errea" typeof="sioc:Item foaf:Document">
+        <a href="http://fr.errea.com" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/sans_titre_-_1_plan_de_travail_1_0.png?itok=D0W5FFOl" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-5 views-row-odd"><div id="node-29" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/hoyt-usa" typeof="sioc:Item foaf:Document">
+        <a href="http://hoyt.com/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/hoyt_plan_de_travail_1.png?itok=MgoOBawk" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-6 views-row-even"><div id="node-48417" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/tru-ball-axcel" typeof="sioc:Item foaf:Document">
+        <a href="https://truball.com/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/tru_axcel_combo_for_light_background.png?itok=u4_Td2qC" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-7 views-row-odd"><div id="node-28322" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/ville-de-vittel" typeof="sioc:Item foaf:Document">
+        <a href="http://www.ville-vittel.fr" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/sans_titre_-_1_plan_de_travail_1_1.png?itok=PKbcYm7c" width="280" height="280" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-8 views-row-even views-row-last"><div id="node-28" class="node node-partenaire node-promoted node-teaser node-partenaire-teaser clearfix" about="/content/winwin-archery" typeof="sioc:Item foaf:Document">
+        <a href="https://www.wiawis.com/us/archeryMain" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/medium/public/field/partenaire-logos/wiawis_carre_website.png?itok=5SUTjJR6" width="280" height="280" alt="" /></a></div>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>      </div>
+      <div class="col-xs-12">
+        <a href="/partenaires" class="btn default b up full-width">Tous nos partenaires</a>
+      </div>
+    </div>
+  </div>
+
+  </div>
+  </div>
+</div>
+  </div>
+            </div>
+          </div>
+        </div>
+
+      </div> <!-- /.section, /#content -->
+    </div></div> <!-- /#main, /#main-wrapper -->
+  </div></div> <!-- /#page, /#page-wrapper -->
+
+  <div id="footer">
+    <span class="prefoot"></span>
+    <div class="footer">
+      <div class="container">  <div class="region region-footer">
+    <div id="block-menu-block-7" class="block block-menu-block col-xs-12 col-sm-6 col-md-3">
+
+    <h2 class="block-title">Accès directs</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-7 menu-name-menu-acces-directs parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-707"><a href="https://ffta-goal.multimediabs.com/intranet">Espace dirigeant</a></li>
+<li class="leaf menu-mlid-708"><a href="https://ffta-goal.multimediabs.com/espaceLicencie">Espace licencié</a></li>
+<li class="leaf menu-mlid-709"><a href="/ws/epreuves">Compétitions et résultats</a></li>
+<li class="leaf menu-mlid-2622"><a href="http://www.ffta.fr/vie-sportive/resultats/classements-nationaux">Classements</a></li>
+<li class="leaf menu-mlid-711"><a href="https://ffta.ugal.com/login/?r=http%3A%2F%2Fboutique%2Effta%2Efr">Boutique clubs</a></li>
+<li class="leaf menu-mlid-712"><a href="https://ffta.maps.arcgis.com/apps/webappviewer/index.html?id=6aad81b836e840d8913dbe46e379aebd">Chercher un club</a></li>
+<li class="last leaf menu-mlid-714"><a href="/documents">Documents en ligne</a></li>
+</ul></div>
+  </div>
+</div>
+  <div class="region region-blockgroup-menu-footer-secondaire blockgroup">
+    <div id="block-menu-block-6" class="block block-menu-block hidden-xs">
+
+    <h2 class="block-title">Accès aux univers</h2>
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-6 menu-name-menu-univers parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-608 link-espace-item cibles"><a href="/tir-sur-cibles">Tir sur cibles</a></li>
+<li class="leaf menu-mlid-607 link-espace-item parcours"><a href="/tir-de-parcours">Tir de parcours</a></li>
+<li class="leaf menu-mlid-609 link-espace-item traditionnel"><a href="/tir-beursault">Tir beursault</a></li>
+<li class="leaf menu-mlid-4662 link-espace-item para"><a href="/para">Para-tir à l&#039;arc</a></li>
+<li class="last leaf menu-mlid-4663 link-espace-item runarchery"><a href="/run-archery-0">Run archery</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-menu-block-8" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-8 menu-name-menu-menu-mentions parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-2406"><a href="http://photos.fftiralarc.org">Archives photos</a></li>
+<li class="leaf menu-mlid-744"><a href="/mentions-legales">Mentions légales</a></li>
+<li class="leaf menu-mlid-743"><a href="/la-federation/nous-contacter/formulaire-de-contact">Nous contacter</a></li>
+<li class="last leaf menu-mlid-745"><a href="/sitemap">Plan du site</a></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+<div id="block-views-8d90f6c06b9cac32435f8f98c8a708db" class="block block-views col-xs-12 col-md-6">
+
+    <h2 class="block-title">Partenaires institutionnels</h2>
+  
+  <div class="content">
+    <div id="partenaires-partenaires_institutionnels" class="view view-partenaires view-id-partenaires view-display-id-partenaires_institutionnels view-dom-id-f6445e4ed8ac84af8e13067094d01bb1">
+
+
+        
+
+
+  
+      <div class="view-content ">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first col-sm-4 col-xs-12"><div id="node-8" class="node node-partenaire node-promoted node-partenaire-miniature clearfix" about="/content/comite-national-olympique-et-sportif-francais" typeof="sioc:Item foaf:Document">
+        <a href="http://franceolympique.com/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/partenaire_footer/public/comite-national-olympique.png?itok=DrYDOEcT" width="100" height="100" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-2 views-row-even col-sm-4 col-xs-12"><div id="node-5" class="node node-partenaire node-promoted node-partenaire-miniature clearfix" about="/content/comite-paralympique-et-sportif-francais" typeof="sioc:Item foaf:Document">
+        <a href="http://www.france-paralympique.fr/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/partenaire_footer/public/field/partenaire-logos/france_paralympique_couleur.png?itok=3GJy4Wg0" width="100" height="100" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-3 views-row-odd col-sm-4 col-xs-12"><div id="node-7" class="node node-partenaire node-promoted node-partenaire-miniature clearfix" about="/content/ministere-des-sports" typeof="sioc:Item foaf:Document">
+        <a href="http://www.sports.gouv.fr/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/partenaire_footer/public/field/partenaire-logos/ministere-sport_0.png?itok=7zIvIG40" width="100" height="100" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-4 views-row-even col-sm-4 col-xs-12"><div id="node-6" class="node node-partenaire node-promoted node-partenaire-miniature clearfix" about="/content/world-archery" typeof="sioc:Item foaf:Document">
+        <a href="https://worldarchery.org/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/partenaire_footer/public/world-archery-w-logo.png?itok=pm3JCKlN" width="100" height="100" alt="" /></a></div>
+</li>
+          <li class="views-row views-row-5 views-row-odd views-row-last col-sm-4 col-xs-12"><div id="node-4" class="node node-partenaire node-promoted node-partenaire-miniature clearfix" about="/content/world-archery-europe" typeof="sioc:Item foaf:Document">
+        <a href="http://www.archeryeurope.org/" rel="nofollow" target="_blank"><img typeof="foaf:Image" src="https://www.ffta.fr/sites/ffta/files/styles/partenaire_footer/public/world-archery-logo.png?itok=d0ZpHIYf" width="100" height="100" alt="" /></a></div>
+</li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-4" class="block block-block">
+
+    
+  <div class="content">
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+body.front .mobile-actus .pub {
+  max-height: none !important;
+}body.front .mobile-actus .view-pub{
+clear: none !important;
+}
+
+/*--><!]]>*/
+</style><!-- Facebook Pixel Code --><script>
+<!--//--><![CDATA[// ><!--
+
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1299702730204945');
+  fbq('track', 'PageView');
+
+//--><!]]>
+</script><p></p><noscript><img height="1" width="1" style="display:none" />
+  src="https://www.facebook.com/tr?id=1299702730204945&amp;ev=PageView&amp;noscript=1"<br />
+/&gt;</noscript>
+<!-- End Facebook Pixel Code -->  </div>
+</div>
+  </div>
+</div>
+    </div>
+    <div class="sub-footer">
+      <div class="container">  <div class="region region-sub-footer">
+    <div id="block-block-2" class="block block-block">
+
+    
+  <div class="content">
+    <p>
+	Fédération Française de Tir à l'Arc : 12 place Georges Pompidou, 93160 Noisy-le-Grand / 01.58.03.58.58<br />
+	© 2023 ffta.fr - Tous droits réservés. Site réalisé par <a href="http://www.shoot-shoot.com/" target="_blank"><strong>shoot shoot digital</strong></a>
+</p>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </div>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.eu_cookie_compliance_cookie_name = "";
+//--><!]]>
+</script>
+<script type="text/javascript" defer="defer" src="https://www.ffta.fr/sites/all/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?rqiyum"></script>
+   <a href="#" class="top-btn hidden-print">Remonter</a>
+  <script type="text/javascript" src="/sites/all/themes/ffta2016/external/colorbox/jquery.colorbox-min.js"></script>
+</body>
+</html>
