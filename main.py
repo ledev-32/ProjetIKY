@@ -174,5 +174,3 @@ while main < 1:
         index += 1
 
 #os.remove("main.py") #permet de supprimer le fichier
-
-#Prochaine étape, développer le systèlle de protection des données par zip protégés
