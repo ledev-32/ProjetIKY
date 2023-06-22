@@ -29,6 +29,8 @@ soup = BeautifulSoup(request.text, 'html.parser')
 research = soup.find_all("h1")
 inter_two.write(str(research))
 
+print("Tout les titres balisés h1 sont : ", research)
+
 n = 0
 chase = []
 character = ""
