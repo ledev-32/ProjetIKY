@@ -1,6 +1,6 @@
-import time                     #
-import random                   #
-import math                     #
+import time                     # Permet de faire pause en cas de fin du programme. 
+import random                   # Permet de générer des nombres aléatoires
+import math                     # Permet l'imporatation
 import os                       # Importation des modules nécessaires au bon fonctionnement de IKY
 import getpass                  #
 from googlesearch import search #
